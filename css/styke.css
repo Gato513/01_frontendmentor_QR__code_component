@@ -38,7 +38,7 @@ body{
 }
 
 #card-container > img ~ *{
-    padding: 0 0.9rem;
+    padding: 0 0.8rem;
     text-align: center;
 
     font-weight: 400;
