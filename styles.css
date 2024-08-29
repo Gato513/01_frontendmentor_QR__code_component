@@ -40,8 +40,6 @@ h2 {
 #imgQR {
 	height: 18rem;
 	border-radius: 1rem;
-	background-image: url(./images/image-qr-code.png);
-	background-size: contain;
 }
 
 #info-QR {
